@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "name": "Wheat 2 kg",
+            "purchased": "false"
+        },
+        {
+            "name": "Rice 5 kg",
+            "purchased": "false"
+        },
+        {
+            "name": "Potato 1 kg",
+            "purchased": "false"
+        }
+    ]
+}
